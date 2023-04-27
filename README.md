@@ -14,4 +14,4 @@ The FFC/FPC Adapter Board is an essential tool for anyone working with displays 
   - Bottom contact design for reliable connection
 
 ### Resources:
-  - Datasheet [Download]()
+  - C2986759 FPC-40P Datasheet [Download](https://github.com/sbcshop/FFC-FPC-Adapter-40-pin/blob/main/downloads/C2986759%20FPC-40P.pdf)
