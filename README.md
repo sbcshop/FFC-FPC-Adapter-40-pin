@@ -21,4 +21,11 @@ The FFC/FPC Adapter Board is an essential tool for anyone working with displays 
 
 ### Related Product:
   <img src="https://cdn.shopify.com/s/files/1/1217/2104/products/RPIbreadboard1.png?v=1611054307&width=300"/>
-  * [Raspberry Pi Breadboard Adapter with Cable](https://shop.sb-components.co.uk/products/raspberry-pi-breadboard-adaptor?_pos=2&_sid=b86299e25&_ss=r) - This makes it very easy to access GPIO pins through the breadboard.
+  
+  - [Raspberry Pi Breadboard Adapter with Cable](https://shop.sb-components.co.uk/products/raspberry-pi-breadboard-adaptor?_pos=2&_sid=b86299e25&_ss=r)
+  
+  <img src="https://cdn.shopify.com/s/files/1/1217/2104/products/5microbit-breadboard-2.png?v=1604647716&width=300" />
+  - [BBC micro:bit Breadboard Adapter](https://shop.sb-components.co.uk/products/raspberry-pi-400-gpio-adapter?_pos=5&_sid=b86299e25&_ss=r)
+
+  <img src="https://cdn.shopify.com/s/files/1/1217/2104/products/RaspberryPi400GPIOAdapter_2.png?v=1614343469&width=300" />
+  - [Raspberry Pi 400 GPIO Adapter](https://shop.sb-components.co.uk/products/raspberry-pi-400-gpio-adapter?_pos=5&_sid=b86299e25&_ss=r)
