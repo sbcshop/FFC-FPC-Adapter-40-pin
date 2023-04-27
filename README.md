@@ -13,5 +13,11 @@ The FFC/FPC Adapter Board is an essential tool for anyone working with displays 
   - Slide lock for secure attachment
   - Bottom contact design for reliable connection
 
+### Product Dimension:
+  <img src = "https://github.com/sbcshop/FFC-FPC-Adapter-40-pin/blob/main/downloads/TOP%20VIEW.png"> 
+  <img src = "https://github.com/sbcshop/FFC-FPC-Adapter-40-pin/blob/main/downloads/BOT%20VIEW.png">
+
 ### Resources:
+  - Schematic [Download](https://github.com/sbcshop/FFC-FPC-Adapter-40-pin/blob/main/downloads/SCH%20FPC%2040P%20BREAKOUT.pdf)
+  - Product Dimension [Download](https://github.com/sbcshop/FFC-FPC-Adapter-40-pin/blob/main/downloads/DIM.pdf)
   - C2986759 FPC-40P Datasheet [Download](https://github.com/sbcshop/FFC-FPC-Adapter-40-pin/blob/main/downloads/C2986759%20FPC-40P.pdf)
