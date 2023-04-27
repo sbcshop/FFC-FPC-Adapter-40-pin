@@ -20,4 +20,5 @@ The FFC/FPC Adapter Board is an essential tool for anyone working with displays 
   - [C2986759 FPC-40P Datasheet](https://github.com/sbcshop/FFC-FPC-Adapter-40-pin/blob/main/downloads/C2986759%20FPC-40P.pdf)
 
 ### Related Product:
-  - ![image](https://user-images.githubusercontent.com/129948335/234850213-10efe0cd-2148-489a-a9fb-bcb9f08c4ef4.png)
+  <img src="https://cdn.shopify.com/s/files/1/1217/2104/products/RPIbreadboard1.png?v=1611054307&width=300"/>
+  * [Raspberry Pi Breadboard Adapter with Cable](https://shop.sb-components.co.uk/products/raspberry-pi-breadboard-adaptor?_pos=2&_sid=b86299e25&_ss=r) - This makes it very easy to access GPIO pins through the breadboard.
