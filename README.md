@@ -4,7 +4,7 @@ The FFC/FPC Adapter Board is valuable for terminating displays and supporting bo
 
 The FFC/FPC Adapter Board is an essential tool for anyone working with displays or board-to-board connections. The adapter board provides a secure and stable connection with its surface mount connector, slide lock, and reliable bottom contact design. Whether you're a hobbyist or a professional, the FFC/FPC Adapter Board is a must-have tool for your electronics toolkit.
 
-![image](https://user-images.githubusercontent.com/129948335/234810740-5b87ddb4-50ce-491c-a33d-4f586d29d125.png)
+<img src="https://github.com/sbcshop/FFC-FPC-Adapter-50-pin/blob/main/downloads/FFC-FPC-Adapter_banner.png" />
 
 ### Features:
   - Two variants available: 40 pins and 50 pins
